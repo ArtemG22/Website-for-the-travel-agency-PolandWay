@@ -57,7 +57,7 @@
 
 .social-icon-mail {
     font-size: 2.8rem;
-    color: #00BFFF
+    color: #000080;
 }
 
 .social-links-bar {
@@ -272,6 +272,11 @@
 }
 
 .step-description {
+    font-size: 1.8rem;
+    line-height: 1.8;
+}
+
+.one-step-description {
     font-size: 1.8rem;
     line-height: 1.8;
 }
@@ -696,6 +701,19 @@
     width: 2.4rem;
 }
 
+.social-icon-whatsapp {
+    color: #32CD32;
+    height: 2.4rem;
+    width: 2.4rem;
+}
+
+.social-icon-vk {
+    color: #0000FF;
+    height: 2.4rem;
+    width: 2.4rem;
+}
+
+
 .copyright {
     font-size: 1.4rem;
     line-height: 1.6rem;
@@ -773,6 +791,11 @@
 .content-of-sections {
     font-size: 2rem;
     line-height: 3.5rem;
+}
+
+.focus-on-the-main-thing {
+    font-size: 5.4rem;
+    color: #d00000;
 }
 
 /* 1 rem = 16px -> 50rem = 800px */
